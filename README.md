@@ -9,3 +9,7 @@ betterx-lite userjs：alook网页版X去广告JaveScript扩展
 新标签打开js：alook网页版X在新标签打开推文、评论JaveScript扩展
 
 显示更多js：alook网页版X去掉显示更多（推文全显示）JaveScript扩展
+
+获取文件名.ahk，AutoHotkey脚本，获取当前目录的文件名到剪贴板
+
+获取文件名带扩展名.ahk：AutoHotkey脚本，获取当前目录的文件名和扩展名到剪贴板
