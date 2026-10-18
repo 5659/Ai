@@ -1,3 +1,5 @@
+本库文件均由AI编写。
+
 2027 24 solar terms.ics.ics：2027年24节气苹果日历订阅文件
 
 2027 festivals.ics.ics：2027年其它节日苹果日历订阅文件
